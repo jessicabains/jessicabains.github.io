@@ -7,8 +7,12 @@ I have acquired the abilities required  to succeed in a professional environment
 A key component of my technical abilities is my proficiency with basic data structures and algorithms. This comprehension allows me to write efficient, scalable, and optimized code, a skill that is essential in high-performance computing and software development. I have a solid understanding agile methodologies, the software development lifecycle(SDLC) ,and efficient database management. This includes developing sustainable software solutions, and maintaining data accuracy and running relational databases. I am also skilled in recognizing common vulnerabilities, applying secure coding practices, and understanding the significance of protecting sensitive information and systems.
 
 The artifacts in this ePortfolio were thoughtfully selected to provide evidence of the abilities mentioned above. They are not merely discrete initiatives, rather, they are linked components that together showcase the full range of my computer science skills:
+
 •	Artifact 1 (Operating Systems Project): This project demonstrates my ability to use  software engineering principles and produce a functional product.
+
 •	Artifact 2 (Data Algorithm and Design project): This project demonstrates my foundational algorithmic abilities and my ability to solve complex problems.
+
 •	Artifact 3 (Grazioso Project): This project illustrates my proficiency with secure data handling and managing data. 
+
 When considered collectively, these artifacts demonstrates a well-rounded computer scientist eager to tackle real-world challenges. They demonstrate my journey from a student of the field to a professional ready to join the workforce and make significant contribution. This portfolio showcases my technical skills, commitment to quality work, and ability to make valuable contributions to a innovative team
 
