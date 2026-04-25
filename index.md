@@ -18,24 +18,24 @@ The artifacts in this ePortfolio were thoughtfully selected to provide evidence 
 •	Artifact 3 (Grazioso Project): This project illustrates my proficiency with secure data handling and managing data. 
 
 When considered collectively, these artifacts demonstrates a well-rounded computer scientist eager to tackle real-world challenges. 
-#### CODE REVIEW
+### CODE REVIEW
 A code review is an important software quality assurance activity done to improve the code quality and ensure adherence to coding standards and best practices, resulting in a more consistent, readable, and maintainable code. It is also more cost-effective than identifying issues later on the development cycle. 
 
 
 ### **Code Review Link**
-#### Project 1: Software Engineering and Design
+### Project 1: Software Engineering and Design
 
 ##### **Repository Link**
 
 - [Enhancement One Code]
 
-#### Project 2: Algorithms and Data Structures
+### Project 2: Algorithms and Data Structures
 
 ##### **Repository Link**
 
 - [Enhancement Two Code]
 
-#### Project 3: Databases
+### Project 3: Databases
 
 ##### **Repository Link**
 
