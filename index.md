@@ -1,4 +1,4 @@
-# Computer Science Capstone
+# <center>Computer Science Capstone
   
 ## <center>CS-499 | SNHU</center>
 ### Professional Self-Assessment
