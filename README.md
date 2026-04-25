@@ -1,4 +1,4 @@
-Professional Self Assessment
+                                                      Professional Self Assessment
 
 The completion of my computer science program has been a transformative experience that has improved my technical abilities and helped shape my professional identity. This ePortfolio reflects that journey, showcasing my development, essential core skills, and preparedness to make meaningful contributions to the evolving field of computer science.
 
