@@ -1,7 +1,7 @@
 # Computer Science Capstone
   
 ## <center>CS-499 | SNHU</center>
-# Professional Self-Assessment
+### Professional Self-Assessment
                                                       Professional Self Assessment
 
 They demonstrate my journey from a student of the field to a professional ready to join the workforce and make significant contribution. This portfolio showcases my technical skills, commitment to quality work, and ability to make valuable contributions to a innovative team
