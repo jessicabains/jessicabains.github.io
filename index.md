@@ -1,6 +1,6 @@
-Computer Science Capstone
-# **CS-499 ePortfolio**
-
+# Computer Science Capstone
+  
+## <center>CS-499 | SNHU</center>
 
 
 CS-499 | SNHU
