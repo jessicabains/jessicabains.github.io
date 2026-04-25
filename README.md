@@ -8,7 +8,7 @@ A key component of my technical abilities is my proficiency with basic data stru
 
 The artifacts in this ePortfolio were thoughtfully selected to provide evidence of the abilities mentioned above. They are not merely discrete initiatives, rather, they are linked components that together showcase the full range of my computer science skills:
 
-•	Artifact 1 (Operating Systems Project): This project demonstrates my ability to use  software engineering principles and produce a functional product.
+•	Artifact 1 (Operating Systems Project): This project demonstrates my ability to convert a code from Java to Python. 
 
 •	Artifact 2 (Data Algorithm and Design project): This project demonstrates my foundational algorithmic abilities and my ability to solve complex problems.
 
