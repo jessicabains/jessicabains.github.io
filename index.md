@@ -19,21 +19,23 @@ The artifacts in this ePortfolio were thoughtfully selected to provide evidence 
 
 When considered collectively, these artifacts demonstrates a well-rounded computer scientist eager to tackle real-world challenges. 
 #### CODE REVIEW
+A code review is an important software quality assurance activity done to improve the code quality and ensure adherence to coding standards and best practices, resulting in a more consistent, readable, and maintainable code. 
 
+### **Code Review Link**
 #### Project 1: Software Engineering and Design
 
 ### **Repository Link**
 
-- [Enhancement One Repository]
+- [Enhancement One Code]
 
 #### Project 2: Algorithms and Data Structures
 
 ### **Repository Link**
 
-- [Enhancement Two Repository]
+- [Enhancement Two Code]
 
 #### Project 3: Databases
 
 ### **Repository Link**
 
-- [Enhancement Three Repository]
+- [Enhancement Three Code]
