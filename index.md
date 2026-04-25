@@ -22,6 +22,18 @@ When considered collectively, these artifacts demonstrates a well-rounded comput
 
 #### Project 1: Software Engineering and Design
 
+### **Repository Link**
+
+- [Enhancement One Repository]
+
 #### Project 2: Algorithms and Data Structures
 
+### **Repository Link**
+
+- [Enhancement Two Repository]
+
 #### Project 3: Databases
+
+### **Repository Link**
+
+- [Enhancement Three Repository]
