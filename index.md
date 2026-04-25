@@ -1,12 +1,10 @@
 # Computer Science Capstone
   
 ## <center>CS-499 | SNHU</center>
-
-
-CS-499 | SNHU
-                                                  
+## Professional Self-Assessment
                                                       Professional Self Assessment
 
+They demonstrate my journey from a student of the field to a professional ready to join the workforce and make significant contribution. This portfolio showcases my technical skills, commitment to quality work, and ability to make valuable contributions to a innovative team
 The completion of my computer science program has been a transformative experience that has improved my technical abilities and helped shape my professional identity. This ePortfolio reflects that journey, showcasing my development, essential core skills, and preparedness to make meaningful contributions to the evolving field of computer science.
 
 I have acquired the abilities required  to succeed in a professional environment through my education and the development of this portfolio, positioning myself as a competent and technically proficient applicant. Working on variety of projects gave me the ability to translate complex technical choices into clear, concise updates for stakeholders, while maintaining alignment with business goals and effectively managing expectations.
@@ -21,5 +19,11 @@ The artifacts in this ePortfolio were thoughtfully selected to provide evidence 
 
 •	Artifact 3 (Grazioso Project): This project illustrates my proficiency with secure data handling and managing data. 
 
-When considered collectively, these artifacts demonstrates a well-rounded computer scientist eager to tackle real-world challenges. They demonstrate my journey from a student of the field to a professional ready to join the workforce and make significant contribution. This portfolio showcases my technical skills, commitment to quality work, and ability to make valuable contributions to a innovative team
+When considered collectively, these artifacts demonstrates a well-rounded computer scientist eager to tackle real-world challenges. 
+#### CODE REVIEW
 
+#### Project 1: Software Engineering and Design
+
+#### Project 2: Algorithms and Data Structures
+
+#### Project 3: Databases
