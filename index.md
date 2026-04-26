@@ -35,7 +35,7 @@ I selected this artifact for the skills and knowledge it will showcase on my ePo
 Throughout the enhancement of my project, I realized the importance of working in smaller segments and how writing a clean product can significantly impact the time spent improving it. Applying this technique can lead to a product that allows readers to better grasp its purpose and logic, thereby improving its readability, efficiency, and maintainability. I’ve also learned the benefits and the importance of Google Testing in digital marketing and software development, and how to implement it in a coding project using VS Code. The only challenge I faced was finding reliable sources for implementing Google Test on macOS with Visual Studio Code. It required me to install different extensions in Visual Studio Code and Mac Terminal.
 
 <code> See the original artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Algorithm-and-Data-Structure-Enhancement/CS300DataStructureandAlgorithm.cpp" >here</a>.</code>
-<code> See the enhanced artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/main/CS300EnhancedDataStructureandAlgorithm.zip" >here</a>.</code>
+<code> See the enhanced artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Algorithm-and-Data-Structure-Enhancement/CS300EnhancedDataStructureandAlgorithm.zip" >here</a>.</code>
 
 
 ### Project 3: Databases
