@@ -24,7 +24,7 @@ I chose this artifact to display the skills and knowledge on my ePortfolio. The 
 
 Throughout the enhancement of converting my artifact from Java to Python, I was able to learn the fundamental differences in syntax and structure between the two languages. I observed that Python requires  fewer lines of code, eliminating mandatory class wrappers, semicolon and curly braces, and how different languages impact the development speed. 
 
-<code> See the artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Software-Design-and-Engineering-Enhancement/EnhancementOneSoftware%20DesignEngineering.zip" >here</a>.</code>
+<code> See the artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Algorithm-and-Data-Structure-Enhancement/EnhancementOneSoftware%20DesignEngineering.zip" >here</a>.</code>
 
 ### Project 2: Algorithms and Data Structures
 
@@ -46,6 +46,6 @@ I selected this artifact for the skills and knowledge it will demonstrate on my 
 Throughout the enhancement of my project, I recognized the importance of debugging and how clean coding can greatly influence the time dedicated to enhancing projects. Such a product also allows readers to grasp its purpose and logic effortlessly, reducing the time and effort required for understanding. I have learned how to move from static, button-initiated queries to real-time, event-driven updates, enhancing the user experience, and how to convert complex data types into numeric scales for UI components. The challenges I’ve faced was ensuring the search and the slider filters work simultaneously.
 
 
-<code> See the artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/main/EnhancementOneSoftware%20DesignEngineering" >here</a>.</code>
+<code> See the artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Databases-Enhancement/EnhancedThreeDatabse.zip" >here</a>.</code>
 
 This site was built using [GitHub Pages](https://pages.github.com/)
