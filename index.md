@@ -24,14 +24,14 @@ A code review is an important software quality assurance activity done to improv
 
 ### **Code Review Link**
 ### Project 1: Software Engineering and Design
+<code> See the artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/main/EnhancementOneSoftware%20DesignEngineering.zip" >here</a>.</code>
 
-<code> See the artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/main/CS300EnhancedDataStructureandAlgorithm.zip" >here</a>.</code>
 ### Project 2: Algorithms and Data Structures
 
 
+<code> See the artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/main/CS300EnhancedDataStructureandAlgorithm.zip" >here</a>.</code>
 
 
-<code> See the artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/main/EnhancementOneSoftware%20DesignEngineering" >here</a>.</code>
 ### Project 3: Databases
 
 
