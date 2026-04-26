@@ -24,7 +24,7 @@ I chose this artifact to display the skills and knowledge on my ePortfolio. The 
 
 Throughout the enhancement of converting my artifact from Java to Python, I was able to learn the fundamental differences in syntax and structure between the two languages. I observed that Python requires  fewer lines of code, eliminating mandatory class wrappers, semicolon and curly braces, and how different languages impact the development speed. 
 
-<code> See the original artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Software-Design-and-Engineering-Enhancement/GamingRoom.zip" >here</a>.</code>
+<code> See the original artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Software-Design-and-Engineering-Enhancement/CS230SoftwareEngineeringandDesignArtifact.zip" >here</a>.</code>
 
 <code> See the enhanced artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Software-Design-and-Engineering-Enhancement/EnhancementOneSoftware%20DesignEngineering.zip" >here</a>.</code>
 
