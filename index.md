@@ -23,7 +23,9 @@ The artifact I chose for the software engineering and design category is from th
 I chose this artifact to display the skills and knowledge on my ePortfolio. The knowledge and skills gained from this course are useful for a cybersecurity professional, as they offer a fundamental understanding of how computer systems operate, and the ability to read and write in python, which is crucial for recognizing system vulnerabilities and developing secure systems. I enhanced my project by illustrating a thorough grasp of essential OS concepts, aligning with the project objectives, converting java code to python, and documenting my decisions clearer. The course outcomes that I’ve planned to meet with this enhancement has been bet. The project remains the same as before, but now implemented in Python, and improved readability, efficiency and maintainability. 
 
 Throughout the enhancement of converting my artifact from Java to Python, I was able to learn the fundamental differences in syntax and structure between the two languages. I observed that Python requires  fewer lines of code, eliminating mandatory class wrappers, semicolon and curly braces, and how different languages impact the development speed. 
+
 <code> See the original artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Software-Design-and-Engineering-Enhancement/GamingRoom.zip" >here</a>.</code>
+
 <code> See the enhanced artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Software-Design-and-Engineering-Enhancement/EnhancementOneSoftware%20DesignEngineering.zip" >here</a>.</code>
 
 ### Project 2: Algorithms and Data Structures
