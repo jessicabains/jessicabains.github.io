@@ -14,8 +14,8 @@ The artifacts in this ePortfolio were thoughtfully selected to provide evidence 
 ### CODE REVIEW
 A code review is an important software quality assurance activity done to improve the code quality and ensure adherence to coding standards and best practices, resulting in a more consistent, readable, and maintainable code. It is also more cost-effective than identifying issues later on the development cycle. 
 
+#### **Code Review Link**
 
-### **Code Review Link**
 ### Project 1: Software Engineering and Design
 
 The artifact I chose for the software engineering and design category is from the course CS 230- Operating Platforms. I created this artifact the summer term of 2023. This artifact illustrates my ability to design, convert to different languages, and potentially build a web-based, multi-platform version of the existing Android game "Draw It or Lose It”. It emphasizes core operating system concepts such as client-server architecture, storage, memory management, and distributed systems to ensure the game is accessible and scalable across various devices (Windows, macOS, Linux), utilizing web technologies (HTML/CSS/JS) and databases. 
