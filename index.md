@@ -53,4 +53,5 @@ Throughout the enhancement of my project, I recognized the importance of debuggi
 
 <code> See the enhanced artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Databases-Enhancement/EnhancedThreeDatabse.zip" >here</a>.</code>
 
+
 This site was built using [GitHub Pages](https://pages.github.com/)
