@@ -23,8 +23,8 @@ The artifact I chose for the software engineering and design category is from th
 I chose this artifact to display the skills and knowledge on my ePortfolio. The knowledge and skills gained from this course are useful for a cybersecurity professional, as they offer a fundamental understanding of how computer systems operate, and the ability to read and write in python, which is crucial for recognizing system vulnerabilities and developing secure systems. I enhanced my project by illustrating a thorough grasp of essential OS concepts, aligning with the project objectives, converting java code to python, and documenting my decisions clearer. The course outcomes that I’ve planned to meet with this enhancement has been bet. The project remains the same as before, but now implemented in Python, and improved readability, efficiency and maintainability. 
 
 Throughout the enhancement of converting my artifact from Java to Python, I was able to learn the fundamental differences in syntax and structure between the two languages. I observed that Python requires  fewer lines of code, eliminating mandatory class wrappers, semicolon and curly braces, and how different languages impact the development speed. 
-
-<code> See the artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Algorithm-and-Data-Structure-Enhancement/EnhancementOneSoftware%20DesignEngineering.zip" >here</a>.</code>
+<code> See the original artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Software-Design-and-Engineering-Enhancement/GamingRoom.zip" >here</a>.</code>
+<code> See the enhanced artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Software-Design-and-Engineering-Enhancement/EnhancementOneSoftware%20DesignEngineering.zip" >here</a>.</code>
 
 ### Project 2: Algorithms and Data Structures
 
@@ -34,7 +34,8 @@ I selected this artifact for the skills and knowledge it will showcase on my ePo
 
 Throughout the enhancement of my project, I realized the importance of working in smaller segments and how writing a clean product can significantly impact the time spent improving it. Applying this technique can lead to a product that allows readers to better grasp its purpose and logic, thereby improving its readability, efficiency, and maintainability. I’ve also learned the benefits and the importance of Google Testing in digital marketing and software development, and how to implement it in a coding project using VS Code. The only challenge I faced was finding reliable sources for implementing Google Test on macOS with Visual Studio Code. It required me to install different extensions in Visual Studio Code and Mac Terminal.
 
-<code> See the artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/main/CS300EnhancedDataStructureandAlgorithm.zip" >here</a>.</code>
+<code> See the original artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Algorithm-and-Data-Structure-Enhancement/CS300DataStructureandAlgorithm.cpp" >here</a>.</code>
+<code> See the enhanced artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/main/CS300EnhancedDataStructureandAlgorithm.zip" >here</a>.</code>
 
 
 ### Project 3: Databases
@@ -45,7 +46,8 @@ I selected this artifact for the skills and knowledge it will demonstrate on my 
 
 Throughout the enhancement of my project, I recognized the importance of debugging and how clean coding can greatly influence the time dedicated to enhancing projects. Such a product also allows readers to grasp its purpose and logic effortlessly, reducing the time and effort required for understanding. I have learned how to move from static, button-initiated queries to real-time, event-driven updates, enhancing the user experience, and how to convert complex data types into numeric scales for UI components. The challenges I’ve faced was ensuring the search and the slider filters work simultaneously.
 
+<code> See the original artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Databases-Enhancement/Database%20Artifact.zip" >here</a>.</code>
 
-<code> See the artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Databases-Enhancement/EnhancedThreeDatabse.zip" >here</a>.</code>
+<code> See the enhanced artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/Databases-Enhancement/EnhancedThreeDatabse.zip" >here</a>.</code>
 
 This site was built using [GitHub Pages](https://pages.github.com/)
