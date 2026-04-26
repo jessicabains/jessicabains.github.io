@@ -45,8 +45,6 @@ I selected this artifact for the skills and knowledge it will demonstrate on my 
 
 Throughout the enhancement of my project, I recognized the importance of debugging and how clean coding can greatly influence the time dedicated to enhancing projects. Such a product also allows readers to grasp its purpose and logic effortlessly, reducing the time and effort required for understanding. I have learned how to move from static, button-initiated queries to real-time, event-driven updates, enhancing the user experience, and how to convert complex data types into numeric scales for UI components. The challenges I’ve faced was ensuring the search and the slider filters work simultaneously.
 
-<img width="468" height="610" alt="image" src="https://github.com/user-attachments/assets/19bf1558-cdc0-4c6f-afc1-87a52376336a" />
-
 
 <code> See the artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/main/EnhancementOneSoftware%20DesignEngineering" >here</a>.</code>
 
