@@ -18,6 +18,11 @@ A code review is an important software quality assurance activity done to improv
 ### **Code Review Link**
 ### Project 1: Software Engineering and Design
 
+The artifact I chose for the software engineering and design category is from the course CS 230- Operating Platforms. I created this artifact the summer term of 2023. This artifact illustrates my ability to design, convert to different languages, and potentially build a web-based, multi-platform version of the existing Android game "Draw It or Lose It”. It emphasizes core operating system concepts such as client-server architecture, storage, memory management, and distributed systems to ensure the game is accessible and scalable across various devices (Windows, macOS, Linux), utilizing web technologies (HTML/CSS/JS) and databases. 
+
+I chose this artifact to display the skills and knowledge on my ePortfolio. The knowledge and skills gained from this course are useful for a cybersecurity professional, as they offer a fundamental understanding of how computer systems operate, and the ability to read and write in python, which is crucial for recognizing system vulnerabilities and developing secure systems. I enhanced my project by illustrating a thorough grasp of essential OS concepts, aligning with the project objectives, converting java code to python, and documenting my decisions clearer. The course outcomes that I’ve planned to meet with this enhancement has been bet. The project remains the same as before, but now implemented in Python, and improved readability, efficiency and maintainability. 
+
+Throughout the enhancement of converting my artifact from Java to Python, I was able to learn the fundamental differences in syntax and structure between the two languages. I observed that Python requires  fewer lines of code, eliminating mandatory class wrappers, semicolon and curly braces, and how different languages impact the development speed. 
 
 <code> See the artifact code <a href = "https://github.com/jessicabains/jessicabains.github.io/blob/main/EnhancementOneSoftware%20DesignEngineering.zip" >here</a>.</code>
 
