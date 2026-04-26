@@ -15,6 +15,13 @@ When considered collectively, these artifacts demonstrates a well-rounded comput
 ### CODE REVIEW
 A code review is an important software quality assurance activity done to improve the code quality and ensure adherence to coding standards and best practices, resulting in a more consistent, readable, and maintainable code. It is also more cost-effective than identifying issues later on the development cycle. 
 
+Some code review best practices include limiting the review to fewer than 400 lines of code at a time, working at a deliberate pace to achieve the best outcomes, avoiding code reviews that exceed 60 minutes, setting specific goals and capturing metrics, having authors provide annotations before the review, using checklists, establishing a process for addressing any bugs identified, fostering a positive code review culture, embracing the subtle impacts of peer review, and engaging in brief code reviews.
+Code review should be integrated throughout the development process, as it provides continuous feedback and helps minimize the piling up of various issues that may become more challenging to resolve down the line.
+
+The software chosen for recording the code review is OBS Studio. The approach to creating an outline or script for the code review will be organized based on the rubric and code review checklist. It will focus on functionality, code quality, readability, and maintainability.
+
+
+
 #### **Code Review Link**
 
 ### Project 1: Software Engineering and Design
