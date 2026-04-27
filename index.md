@@ -18,6 +18,7 @@ A code review is an important software quality assurance activity done to improv
 Some code review best practices include limiting the review to fewer than 400 lines of code at a time, working at a deliberate pace to achieve the best outcomes, avoiding code reviews that exceed 60 minutes, setting specific goals and capturing metrics, having authors provide annotations before the review, using checklists, establishing a process for addressing any bugs identified, fostering a positive code review culture, embracing the subtle impacts of peer review, and engaging in brief code reviews.
 Code review should be integrated throughout the development process, as it provides continuous feedback and helps minimize the piling up of various issues that may become more challenging to resolve down the line.
 
+I've used the in-built screen casting on my mac and a video editor for recording and editing my mp4 file formatted code review. The approach in creating an outline or script for the code review will be organized based on the rubric and code review checklist. It will focus on functionality, code quality, readability, and maintainability.
 
 #### **Code Review Link**
 <code> See the code review <a href = "" >here</a>.</code>
