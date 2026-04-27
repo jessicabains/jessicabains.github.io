@@ -21,7 +21,7 @@ Code review should be integrated throughout the development process, as it provi
 I've used the in-built screen casting on my mac and a video editor for recording and editing my mp4 file formatted code review. The approach in creating an outline or script for the code review will be organized based on the rubric and code review checklist. It will focus on functionality, code quality, readability, and maintainability.
 
 #### **Code Review Link**
-<code> See the code review <a href = "" >here</a>.</code>
+<code> See the code review <a href = "https://www.youtube.com/watch?v=0aBiFCC1gvE" >here</a>.</code>
 
 ### Project 1: Software Engineering and Design
 
